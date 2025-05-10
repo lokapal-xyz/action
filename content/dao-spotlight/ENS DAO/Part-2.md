@@ -19,7 +19,7 @@ The ENS DAO uses token-weighted voting – one token, one vote. $ENS tokens must
 
 ## Delegation
 
-$ENS tokens must be delegated to an Ethereum address in order to have governance power. Here are some important delegation considerations: 
+$ENS tokens must be delegated to an Ethereum address in order to have **governance power**. Here are some important delegation considerations: 
 
 - Tokens can be self-delegated or delegated to another address. 
 - Address delegation remains until modified, or after changes in token ownership.
@@ -51,11 +51,11 @@ There are three types of ENS DAO voting procedures:
 - Executable Proposals
 - Steward Elections
 
-**Social Proposals** are off-chain procedures that ask for the agreement of the DAO on a social consideration that cannot be enforced on-chain. They are posted on the ENS DAO Snapshot space and are open for 5 days. Voting is free and does not require gas. Votes can be changed for free at any time before a vote ends. Social proposals can be put forward by any Delegate with at least **10,000 $ENS**. 
+**Social Proposals** are off-chain procedures that ask for the agreement of the DAO on a social consideration that cannot be enforced on-chain. They are posted on the ENS DAO Snapshot space and are open for 5 days. **Voting is free and does not require gas**. Votes can be changed for free at any time before a vote ends. Social proposals can be put forward by any Delegate with at least **10,000 $ENS**. 
 
-**Executable Proposals** are on-chain procedures able to execute smart contract operations – if they are approved. Proposals are open for 7 days, and can be viewed on Tally or Agora. Voting is not free and requires gas. Votes cannot be changed once they are cast. Executable proposals can be put forward to a vote by any Delegate with at least **100,000 $ENS tokens**.
+**Executable Proposals** are on-chain procedures able to execute smart contract operations – if they are approved. Proposals are open for 7 days, and can be viewed on Tally or Agora. **Voting is not free and requires gas**. Votes cannot be changed once they are cast. Executable proposals can be put forward to a vote by any Delegate with at least **100,000 $ENS tokens**.
 
-**Steward Elections** take place each year in December. Each working group will elect three stewards per Term. Steward elections are administered by the Meta-Goverance Working Group. Information about working group elections are posted in the governance forum.
+**Steward Elections** take place each year in December. Each working group will elect three stewards per term. Steward elections are administered by the Meta-Goverance Working Group. Information about working group elections are posted in the governance forum.
 
 These procedures are well-defined and nuanced. Refer to the official documentation for full technical details.
 
@@ -69,7 +69,7 @@ The ENS DAO uses working groups to manage the DAO’s work-related activities �
 - ENS Ecosystem
 - Public Goods
 
-Each working group has a set of rules, approved by Social Proposal in December 2021. The rules were modified in June 2022 and November 2023. Working groups have three stewards each – they are elected to serve for a 12 months term. The stewards appoint a secretary for the Term. Working groups' budget must be approved by Social Proposal. These funds are then managed by a 3-of-4 multi-sig.
+Each working group has a set of rules, approved by Social Proposal in December 2021. The rules were modified in June 2022 and November 2023. Working groups have three stewards each – they are elected to serve for a 12 months term. The stewards appoint a secretary for the term. Working groups' budget must be approved by Social Proposal. These funds are then managed by a 3-of-4 multi-sig.
 
 [**Meta-Governance**](https://basics.ensdao.org/metagovernance-wg) Working Group responsibilities include:
 

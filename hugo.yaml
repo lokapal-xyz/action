@@ -1,12 +1,12 @@
 baseURL: https://lokapal-xyz.github.io/action/
 languageCode: en-us
-title: Lokapal Action | DAO Literacy & Spotlight 
+title: Lokapal Action | DAO Spotlight & Digest
 theme: ["PaperMod"]
 
 # How many posts per page 
 pagination:
   disableAliases: false
-  pagerSize: 4
+  pagerSize: 8
   path: page
 
 
@@ -14,20 +14,20 @@ params:
   profileMode:
     enabled: true
     title: "Lokapal Action" # optional default will be site title
-    subtitle: "Turning Research Into Real-World DAO Engagement and Advocacy" # optional
+    subtitle: "Promoting DAO Participation and Comprehensive Development" # optional
     imageUrl: "img/LokapalAction.png" # optional
     imageTitle: "Lokapal Action" # optional
     imageWidth: 240 # custom size
     imageHeight: 240 # custom size
     buttons:
-      - name: 🔹DAO Literacy
-        url: "literacy"
       - name: 🔹DAO Spotlight
         url: "dao-spotlight"
+      - name: 🔹DAO Digest
+        url: "dao-digest"
       #- name: 🔹Partnerships and Advisory
       #  url: "initiatives"
       - name: 🔸Homepage
-        url: "https://lokapal-xyz.github.io/"
+        url: "https://lokapal-xyz.github.io/en/"
 
   socialIcons: # optional
     - name: "linkedin"
