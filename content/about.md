@@ -8,7 +8,7 @@ This is the practical arm of Lokapal — a place where education, research, and 
 
 ## 🔹DAO Spotlight  
 **Independent deep dives into DAOs and decentralized governance.**  
-DAO Spotlight is where research meets implementation. This initiative features detailed explorations of active DAOs and governance phenomena — looking at what works, what struggles, and why. These Spotlights may evolve into public conversations, roundtables, or commissioned analysis, but always retain a spirit of constructive inquiry.
+DAO Spotlight is where research meets implementation. This initiative features detailed explorations of active DAOs and governance phenomena — looking at what works, what struggles, and why. This repository of case studies may evolve into focused conversations, roundtables, or commissioned analysis, but always retain a spirit of constructive inquiry.
 
 ## 🔹DAO Digest  
 **Curated updates on decentralized governance and DAO developments.**  
