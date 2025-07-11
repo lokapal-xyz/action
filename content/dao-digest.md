@@ -14,5 +14,6 @@ DAO Digest is written for contributors, researchers, protocol designers, and any
 
 ## Editions
 
-- **June 2025** — _Coming soon._
+- **July 2025** — _Coming soon._
+- [**June 2025**](https://lokapal.substack.com/p/dao-digest-2-june-2025) — _Highlights from Compound, Arbitrum and Uniswap._
 - [**May 2025**](https://lokapal.substack.com/p/dao-digest-1-may-2025) — _Launch edition. Highlights from Mobius, Lido and Cult DAO_  
